@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<odoo>
+    <data>
+        <record id="estate_admin_group_users_id" model="res.groups">
+            <field name="name">Administrador do Imóveis</field>
+        </record>            
+    </data>
+</odoo>

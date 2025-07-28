@@ -5,7 +5,10 @@
     "summary": "Estate management",
     "license": "LGPL-3",
     "depends": ["base"],
-    "data" : ["demo/demo.xml",],
+    "data" : [
+        "security/res_groups.xml",
+        "demo/demo.xml",
+        ],
     "installable": True,
     "applications": True,
     "auto_install": False,
